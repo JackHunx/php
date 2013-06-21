@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<codeTemplates><childs><node name="PHP" isFolder="True" hlType=""><data></data><childs><node name="Header description" isFolder="False" hlType="PHP"><data>/**
+ * [[query@Classname:|]]
+ * @author Jack Mr.Hu
+ * @link https://github.com/mrhu/
+ * @time [[datetime]]
+ **/</data><childs/></node><node name="Php Class" isFolder="False" hlType="PHP"><data>class [[query@ClassName:|]]
+{
+  public function __construct()
+	{
+	
+	}
+}</data><childs/></node></childs></node><node name="HTML/XHTML" isFolder="True" hlType=""><data></data><childs/></node><node name="XML" isFolder="True" hlType=""><data></data><childs/></node><node name="CSS" isFolder="True" hlType=""><data></data><childs/></node><node name="SMARTY" isFolder="True" hlType=""><data></data><childs/></node><node name="JAVASCRIPT" isFolder="True" hlType=""><data></data><childs/></node><node name="VBSCRIPT" isFolder="True" hlType=""><data></data><childs/></node><node name="SQL" isFolder="True" hlType=""><data></data><childs/></node><node name="PERL" isFolder="True" hlType=""><data></data><childs/></node><node name="JAVA" isFolder="True" hlType=""><data></data><childs/></node><node name="C#" isFolder="True" hlType=""><data></data><childs/></node><node name="PYTHON" isFolder="True" hlType=""><data></data><childs/></node><node name="RUBY" isFolder="True" hlType=""><data></data><childs/></node></childs></codeTemplates>
